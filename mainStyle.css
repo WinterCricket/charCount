@@ -37,3 +37,8 @@ div {
 	font-size: 3em;
 	
 }
+
+.masteryButton {
+	grid-column: 4 / 5;
+	justify-self: start;
+}
