@@ -29,6 +29,7 @@ div {
 .flexible {
 	display: grid;
 	grid-template-rows: auto auto auto;
+	grid-template-columns: auto auto auto auto auto;
 }
 #count {
 	text-align: center;
