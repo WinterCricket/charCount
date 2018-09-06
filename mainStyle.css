@@ -23,8 +23,13 @@ span {
 
 div {
 	bottom: 10px;
-}
+	
 
+}
+.flexible {
+	display: flex;
+	justify-content: space-around;
+}
 #count {
 	text-align: center;
 	font-size: 3em;
